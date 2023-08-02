@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sora: Sora;
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-paleturquoise: #b2f1f5;
+  --color-gainsboro: #d9d9d9;
+  --color-steelblue: #457b9d;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+}
